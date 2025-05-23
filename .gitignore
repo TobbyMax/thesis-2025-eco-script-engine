@@ -1,0 +1,49 @@
+*.dll
+*.obj
+*.vcxproj.user
+*sdf
+*.opensdf
+*.suo
+
+**/ipch
+**/BuildFiles
+**/VisualStudio_10/*/
+.idea
+**/cmake-*
+
+# *.log
+# *.exe
+# *.h
+# *.c
+
+Eco.Framework/Eco.Tree1/
+Eco.Framework/Eco.Vector1/
+Eco.Framework/Eco.Visitor1/
+Eco.Framework/Eco.WideString1/
+Eco.Framework/Eco.Comparator1/
+Eco.Framework/Eco.DateTime1/
+Eco.Framework/Eco.Dictionary1/
+Eco.Framework/Eco.Eigenfaces1/
+Eco.Framework/Eco.FileSystemManagement1/
+Eco.Framework/Eco.GPIO1/
+Eco.Framework/Eco.GameEngine1/
+Eco.Framework/Eco.Graph1/
+Eco.Framework/Eco.HD44780.LCDController1/
+Eco.Framework/Eco.Image.BMP3/
+Eco.Framework/Eco.InterfaceBus1/
+Eco.Framework/Eco.Keypad1/
+Eco.Framework/Eco.List1/
+Eco.Framework/Eco.Log1/
+Eco.Framework/Eco.Map1/
+Eco.Framework/Eco.MemoryManager1/
+Eco.Framework/Eco.Mutex1/
+Eco.Framework/Eco.Observer1/
+Eco.Framework/Eco.OpenGLES1/
+Eco.Framework/Eco.Queue1/
+Eco.Framework/Eco.Semaphore1/
+Eco.Framework/Eco.Set1/
+Eco.Framework/Eco.Stack1/
+Eco.Framework/Eco.StdLibC89/
+Eco.Framework/Eco.String1/
+Eco.Framework/Eco.System1/
+Eco.Framework/Eco.BIOSExtensions1/

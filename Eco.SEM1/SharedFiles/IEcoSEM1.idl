@@ -1,0 +1,9 @@
+﻿import "IEcoBase1.idl"; 
+
+[
+    uuid({E6E96975-7686-48C3-B075-5143CE324AAC})
+]
+interface IEcoSEM1 : IEcoUnknown {
+
+    int16_t MyFunction([in] char_t* Name, [out] char_t** CopyName);
+};
